@@ -1,4 +1,4 @@
-/* Estilos gerais */
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -13,7 +13,6 @@ body {
     color: #333;
 }
 
-/* Cabeçalho */
 header {
     text-align: center;
     padding: 20px;
@@ -32,7 +31,6 @@ header h1 {
     color: #d1d5db;
 }
 
-/* Conteúdo principal */
 .corpo {
     margin: 20px auto;
     max-width: 800px;
@@ -69,7 +67,6 @@ header h1 {
     margin-bottom: 20px;
 }
 
-/* Botão com efeitos */
 .botaoassistir {
     display: inline-block;
     padding: 12px 20px;
